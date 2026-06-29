@@ -1,0 +1,9 @@
+canonical_identifier: bkk:krp/KR3ei056/jc/v1/markers/7
+seq: 7
+markers:
+  front: []
+  body:
+  - {type: punctuation, offset: 3, content: （, id: KR3ei056_jc_007-bkkpn1}
+  - {type: punctuation, offset: 4, content: ）, id: KR3ei056_jc_007-bkkpn2}
+  back: []
+hash: sha256:59ba476f405e463566aeb63de50c29148ef372da22e65fb178b4ecac3449b4f6

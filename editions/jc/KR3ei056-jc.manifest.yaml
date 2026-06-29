@@ -1,0 +1,240 @@
+canonical_identifier: bkk:krp/KR3ei056/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ei056/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 衛生家寶產科備要
+  identifiers:
+    krp: KR3ei056
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei056.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei056_000-jc.yaml, hash: 'sha256:496ea18b9d001e80a5805cc759664f8e255b145327f32d5e4c371d5e62ec65e5'}
+  - {seq: 1, filename: KR3ei056_001-jc.yaml, hash: 'sha256:1bb02927f61aa5fd27e9dbdd9ec9220eeba8a48953ef0614033e3d4ef1ea0886'}
+  - {seq: 2, filename: KR3ei056_002-jc.yaml, hash: 'sha256:1d44482e1932a07ffc84bec629434c1cf2a7cd42edabbd56af07877d366061f8'}
+  - {seq: 3, filename: KR3ei056_003-jc.yaml, hash: 'sha256:62e2343e1eb715c00633bd4c17eb687c21826fc8820e64f56316281f330b427b'}
+  - {seq: 4, filename: KR3ei056_004-jc.yaml, hash: 'sha256:d486ec79bbd36729059d416fed787750a3d53cefe0b8c64c156ccb7d495b828c'}
+  - {seq: 5, filename: KR3ei056_005-jc.yaml, hash: 'sha256:49ef95614072ccc1b65359ce43524087996d0864f8ec0d07a360d1b5e658a994'}
+  - {seq: 6, filename: KR3ei056_006-jc.yaml, hash: 'sha256:cfa666d168a937e5cb73166508baf1e953f08e1a6faae4f0fc4c3819d8361967'}
+  - {seq: 7, filename: KR3ei056_007-jc.yaml, hash: 'sha256:6fd077a361a7c74ef20bc50a2a19bbb297037b84503164978d9d9b1188421da9'}
+  - {seq: 8, filename: KR3ei056_008-jc.yaml, hash: 'sha256:7c77d49709221d078c22079bedff569c0c2682025cdd0c86ce0dde693040eda3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei056_000-jc.markers.yaml, hash: 'sha256:98fc0cc35ff4b3d76908dc456cbcf3861a827f45d0b9819c69cfb81c5038452b'}
+  - {seq: 1, role: markers, filename: assets/KR3ei056_001-jc.markers.yaml, hash: 'sha256:b384dda992ed59b54ff36640404e4cbbb50b47321a27002fd8f5dc26f98cfbff'}
+  - {seq: 2, role: markers, filename: assets/KR3ei056_002-jc.markers.yaml, hash: 'sha256:7bf005bc539ceab99c9df47cedc2205c27caafb260ac6fb97807797fc675dc8f'}
+  - {seq: 3, role: markers, filename: assets/KR3ei056_003-jc.markers.yaml, hash: 'sha256:1a346131638fc261365846ab2d8a6818301c3a5813bb30a13880406f673a0cb1'}
+  - {seq: 4, role: markers, filename: assets/KR3ei056_004-jc.markers.yaml, hash: 'sha256:d44da0a9d90b7ead57d327c775b05ec49787b2903218f1792c17c0962737d6d7'}
+  - {seq: 5, role: markers, filename: assets/KR3ei056_005-jc.markers.yaml, hash: 'sha256:3bde57e497c5c23664973d4de9acd26d1b66e7909b1458c1e4a62070584114d8'}
+  - {seq: 6, role: markers, filename: assets/KR3ei056_006-jc.markers.yaml, hash: 'sha256:98db5c79e783bb4b912defa52cc040928b275862c106e3eb37aa2960d98360dd'}
+  - {seq: 7, role: markers, filename: assets/KR3ei056_007-jc.markers.yaml, hash: 'sha256:59ba476f405e463566aeb63de50c29148ef372da22e65fb178b4ecac3449b4f6'}
+  - {seq: 8, role: markers, filename: assets/KR3ei056_008-jc.markers.yaml, hash: 'sha256:5cbc5ad8a51edfca93c0e0edd601cb21a949281f1e215475a70cc5cf3ef7497e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei056_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 805
+  label: 重雕宋本衛生家寶產科備要敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei056_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 4
+  label: 卷第一佚
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ei056_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 4556
+  label: 卷第二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ei056_jc_002-d4d2
+    span:
+    - body
+    - 3
+    - 314
+  label: 孫真人養胎論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei056_jc_002-d4d3
+    span:
+    - body
+    - 314
+    - 4556
+  label: 徐之才逐月養胎方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei056_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 2758
+  label: 卷第三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ei056_jc_003-d5d4
+    span:
+    - body
+    - 61
+    - 1203
+  label: 論初妊娠
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei056_jc_003-d5d5
+    span:
+    - body
+    - 1203
+    - 2758
+  label: 論欲產併產後
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei056_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 6472
+  label: 卷第四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ei056_jc_004-d6d4
+    span:
+    - body
+    - 138
+    - 4198
+  label: 二十一論並增入十八論
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei056_jc_004-d6d5
+    span:
+    - body
+    - 4198
+    - 4263
+  label: 論臨月將息
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei056_jc_004-d6d6
+    span:
+    - body
+    - 4263
+    - 4868
+  label: 論新生小兒
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei056_jc_004-d6d7
+    span:
+    - body
+    - 4868
+    - 6472
+  label: 累用經效方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ei056_jc_005-d7.h1s1
+    span:
+    - body
+    - 0
+    - 3426
+  label: 卷第五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ei056_jc_005-d7d2
+    span:
+    - body
+    - 3
+    - 815
+  label: 產科雜方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ei056_jc_005-d7d3
+    span:
+    - body
+    - 815
+    - 1379
+  label: 十八論中治產前後患蒲黃黑神散功效
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ei056_jc_005-d7d4
+    span:
+    - body
+    - 1379
+    - 3426
+  label: 產前後十八論烏金散
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei056_jc_006-d8.h1s1
+    span:
+    - body
+    - 0
+    - 4
+  label: 卷第六佚
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ei056_jc_007-d9.h1s1
+    span:
+    - body
+    - 0
+    - 4
+  label: 卷第七佚
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ei056_jc_008-d10.h1s1
+    span:
+    - body
+    - 0
+    - 4
+  label: 卷第八佚
+  type: section
+  level: 1
+hash: sha256:93b288aa3b945fd08d1a9696b119c4d144b22e1f4bed4b8061c7df8b07e31782

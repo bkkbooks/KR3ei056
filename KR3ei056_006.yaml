@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ei056/jc/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷第六佚
+  hash: sha256:e3b13ae77af5ddc9b986698d263769b4a516be1348fb3b4892e4adc637eb18b7
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ei056_jc_006-d8.h1s1}
+metadata:
+  title: 衛生家寶產科備要
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei056.xml
+hash: sha256:cfa666d168a937e5cb73166508baf1e953f08e1a6faae4f0fc4c3819d8361967

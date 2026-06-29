@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ei056/jc/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷第八佚
+  hash: sha256:511f2568e7eabf016a8e24c91befa5408fd027e29c0e0fee84e9fcd0df4309a6
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ei056_jc_008-d10.h1s1}
+metadata:
+  title: 衛生家寶產科備要
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei056.xml
+hash: sha256:7c77d49709221d078c22079bedff569c0c2682025cdd0c86ce0dde693040eda3
